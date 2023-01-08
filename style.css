@@ -1,0 +1,44 @@
+header {
+    width: 100%;
+    color:#ffffff;
+    font-size: 30px;
+  }
+
+  ul {
+    text-align: right;
+    line-height: 350px;
+    color: #ffffff;
+    padding:0px 20px;
+    mix-blend-mode:luminosity;
+    position:flex;
+    
+
+  }
+
+  li {
+    /* Sets display to inline */
+    display: inline;
+    list-style-type: none;
+    font-size: 20px;
+    padding:0px 20px;
+    font-weight: 800;
+      }
+
+      video {
+        object-fit: cover;
+        width: 100vw;
+        height: 300px;
+        position: fixed;
+        top: 0;
+        left: 0;
+  
+      }
+      .overlay h1 {
+        font-size: 30px;
+        font-weight: 800;
+        color:#ffffff;
+        text-align: top;
+        mix-blend-mode: luminosity;
+
+      }
+      
