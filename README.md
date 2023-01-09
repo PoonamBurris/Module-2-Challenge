@@ -1,11 +1,13 @@
-Description
+## Module-2-Challenge
+
+## Description
 Module 2 Challenge includes creating a web application from scratch,  Portfolio page which can be updated with skill and project as course progresses.
 
-User Story
+## User Story
 AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 
-Acceptance Criteria
+## Acceptance Criteria
 Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager's needs:
 
 GIVEN I need to sample a potential employee's previous work
@@ -22,8 +24,10 @@ THEN I am taken to that deployed application
 6.WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
-License
+## License
+
 MIT
 
-Usage
+## Usage
+
 A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can't be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies.
