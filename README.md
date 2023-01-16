@@ -1,4 +1,4 @@
-## Module-2-Challenge
+## Portfolio Assignment
 
 ## Description
 Module 2 Challenge includes creating a web application from scratch,  Portfolio page which can be updated with skill and project as course progresses.
