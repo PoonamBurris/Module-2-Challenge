@@ -182,8 +182,10 @@ aside {
   padding: 20px;
   flex: 0 0 300px;
   box-shadow: 10px 10px 5px #aaaaaa;
-  margin: 40px;
+  margin: 40px; 
 }
+
+
 
 /* Added border-radius to match the card */
 .card header {
